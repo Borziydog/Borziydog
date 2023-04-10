@@ -1,3 +1,6 @@
-Привет я борзый дог
-Я учу python и js
-Знаю как делать сайты
+Привет я борзый дог <br />
+Python JS LUA FULLSTACK Gamedev <br />
+## Dev of <br />
+>https://avia-sim-tools.ml <br />
+## CEO of <br />
+> BD STUDIOS
