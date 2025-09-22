@@ -9,7 +9,7 @@ Creating mini games in unreal engine 5<br />
 ## CEO of <br />
 > BD STUDIOS
 ## Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,py,postgres,vue,react,flask,mongodb,unreal,lua&perline=50" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,rust,lua,vue,react,flask,mongodb, postgres,mysql,unreal&perline=50" />
 
 ## Tools:
 
